@@ -20,12 +20,12 @@ for (let i = 0; i < ownerlist.length; i++) {
 }
 //
 global.botname = process.env.BOTNAME || 'MEGA-AI';
-global.pairingNumber = process.env.BOT_NUMBER || '' ;  // put your number here
+global.pairingNumber = process.env.BOT_NUMBER || '2347049073334' ;  // put your number here
 global.SESSION_ID = process.env.SESSION_ID || 'XEoijDRT#OyhdC1t9_eIt_nQiKM-fXcy1cjt9p2Uzs9ZE8BvxUAQ' ;  // put your session id here
 
 global.mods = []
 global.prems = []
-global.allowed = ['923444844060', '923051391007']
+global.allowed = ['2347049073334', '923051391007']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
